@@ -3,7 +3,7 @@ Hello, 👋 I,m Nethravathi T
 ### About Me
 Aspiring full-stack developer with specialization in MERN stack. Self-motivated and curious, would like to be associated with a progressive organization that would foster creative skills and helps to grow along with the company.
 
-- 🌱 I’m currently learning Full-stack Web Development from Masai School Bangalore.
+- 🌱 I’m Full-stack MERN Developer at Aroha Technologies Bangalore.
 - 🔭 Good in **MERN Stack**
 - 👯 I’m looking to collaborate on Good Thoughts
 - 💬 Ask me about Coding...
