@@ -1,18 +1,26 @@
-Hello, 👋 I,m Nethravathi T
+👋 Hi! I'm Nethravathi, a backend-focused engineer passionate about building scalable systems and integrating AI into real applications.
 
-### About Me
-Aspiring full-stack developer with specialization in MERN stack. Self-motivated and curious, would like to be associated with a progressive organization that would foster creative skills and helps to grow along with the company.
+🛠️ What I build:
+- Backend systems using Node.js, Express, and databases (MongoDB, MySQL)
+- Full-stack MERN applications
+- AI-powered features using LangChain and LLM integration
+- Real-time dashboards and analytics engines
+- Enterprise platforms handling thousands of daily requests
 
-- 🌱 I’m Full-stack MERN Developer at Aroha Technologies Bangalore.
-- 🔭 Good in **MERN Stack**
-- 👯 I’m looking to collaborate on Good Thoughts
-- 💬 Ask me about Coding...
-- 📫 How to reach me: tnethravathi7@gmail.com
-- ⚡ Know more: [My Portfolio](https://nethra-nethravathi1997.vercel.app/)
-- ⚡ Know more: [My Linkden](https://www.linkedin.com/in/nethravathit/)
-- 👯 Interested in coding....
-- 👯 Self Motivated
+📌 My Interests:
+→ Scalable backend architecture
+→ LLM/RAG integration in production systems
+→ Open-source contributions
+→ Teaching and mentoring junior developers
 
-### Tech-Stack
+💼 Currently working on:
+- Enterprise-grade backend systems at Aroha Technologies
+- Building AI-integrated applications
+- Contributing to tech community projects
 
-##### HTML | CSS | JavaScript | Java | Express | MongoDB | Mongoose | React | redux
+🌐 Find me:
+📧 tnethravathi7@gmail.com
+🔗 Portfolio: nethravathi-portfolio.onrender.com
+📱 +91 9663505660
+
+Feel free to explore my projects and reach out for collaboration!
