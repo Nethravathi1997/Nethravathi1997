@@ -20,7 +20,7 @@
 
 🌐 Find me:
 📧 tnethravathi7@gmail.com
-🔗 Portfolio: [nethravathi-portfolio.onrender.com](url)
+🔗 Portfolio: nethravathi-portfolio.onrender.com
 📱 +91 9663505660
 
 Feel free to explore my projects and reach out for collaboration!
